@@ -3,15 +3,24 @@
 !.gitignore
 !.git
 
+<<<<<<< HEAD
 !assignment1
+=======
+>>>>>>> 87fb76c1f8db0348555904aba767438136cc2302
 !assignment1/digits.py
 !assignment1/Joseph_Yoo_Assignment1.ipynb
 !assignment1/Joseph_Yoo_Assignment1.html
 
+<<<<<<< HEAD
 !assignment2
+=======
+>>>>>>> 87fb76c1f8db0348555904aba767438136cc2302
 !assignment2/digits.py
 !assignment2/Joseph_Yoo_Assignment2.ipynb
 !assignment2/Joseph_Yoo_Assignment2.html
 
+<<<<<<< HEAD
 !assignment3
+=======
+>>>>>>> 87fb76c1f8db0348555904aba767438136cc2302
 !assignment3/Joseph_Yoo_Assignment3.ipynb
