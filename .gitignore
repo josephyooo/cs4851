@@ -1,0 +1,17 @@
+**/*
+
+!.gitignore
+!.git
+
+!assignment1
+!assignment1/digits.py
+!assignment1/Joseph_Yoo_Assignment1.ipynb
+!assignment1/Joseph_Yoo_Assignment1.html
+
+!assignment2
+!assignment2/digits.py
+!assignment2/Joseph_Yoo_Assignment2.ipynb
+!assignment2/Joseph_Yoo_Assignment2.html
+
+!assignment3
+!assignment3/Joseph_Yoo_Assignment3.ipynb
