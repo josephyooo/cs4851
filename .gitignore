@@ -3,6 +3,8 @@
 !.gitignore
 !.git
 
+!requirements.txt
+
 <<<<<<< HEAD
 !assignment1
 =======
